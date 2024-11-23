@@ -1,1 +1,1 @@
-This repository is for the tasks done under the internship at Brainwave Matrix Solutions.
+This repository is for the projects done under the internship at Brainwave Matrix Solutions.
